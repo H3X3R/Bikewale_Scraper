@@ -1,6 +1,6 @@
 # BikeWale Scraper
 
-This is a personal project that was done overnight, fueled by --> idk i forgot why I did it the next morning.
+This is a personal project that was done overnight, fueled by --> idk I forgot why I did it the next morning.
 
 This project scrapes bike data from [BikeWale](https://www.bikewale.com/new-bike-search/) and exports it to a CSV file. It collects key specifications such as engine capacity (cc), power (bhp), weight (kg), and calculates the power-to-weight ratio for each bike.
 
